@@ -250,15 +250,16 @@ Our reproduction efford includes multiple improvements to the original codebase 
 <table>
   <tr>
     <td>
-      <img src="path_to_image1.png" alt="Figure 1" style="max-width: 100%;">
+      <img src="https://hackmd.io/_uploads/H1tTMORQR.png" alt="Figure 1" style="max-width: 100%;">
       <p align="center">Figure 1: Description</p>
     </td>
     <td>
-      <img src="path_to_image2.png" alt="Figure 2" style="max-width: 100%;">
+      <img src="https://hackmd.io/_uploads/rytpfdRmA.png" alt="Figure 2" style="max-width: 100%;">
       <p align="center">Figure 2: Description</p>
     </td>
   </tr>
 </table>
+
 
 
 
