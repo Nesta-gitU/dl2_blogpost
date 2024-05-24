@@ -247,16 +247,19 @@ We see that the rsteer model performs similary to what was seen in [1], the resu
 Our reproduction efford includes multiple improvements to the original codebase that make it easier to reuse the code in the future. First of all the code from [1] did not include the weight constraint on the relaxed weights that is shown in the paper, we added this to the codebase. The code and paper from [1] also did not include any hyperparameters for the rgroup model. Additionally we have uploaded the smoke datasets of [1] to huggingface for ease of use and we have updated the datageneration notebook to work with the most recent version of PhiFlow [6].  
 
 ## Extension Results
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1; margin-right: 10px;">
-    <img src="https://hackmd.io/_uploads/H1tTMORQR.png" alt="Figure 1" style="max-width: 100%;">
-    <p style="text-align: center;">Figure 1: Description</p>
-  </div>
-  <div style="flex: 1; margin-left: 10px;">
-    <img src="https://hackmd.io/_uploads/rytpfdRmA.png" alt="Figure 2" style="max-width: 100%;">
-    <p style="text-align: center;">Figure 2: Description</p>
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="path_to_image1.png" alt="Figure 1" style="max-width: 100%;">
+      <p align="center">Figure 1: Description</p>
+    </td>
+    <td>
+      <img src="path_to_image2.png" alt="Figure 2" style="max-width: 100%;">
+      <p align="center">Figure 2: Description</p>
+    </td>
+  </tr>
+</table>
+
 
 
 
